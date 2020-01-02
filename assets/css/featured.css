@@ -11,8 +11,16 @@ body {
     font-style: italic;
 }
 
+.italics {
+    font-style: italic;
+}
+
 .underline {
     text-decoration: underline;
+}
+
+.red {
+    color: red;
 }
 
 .footer {
@@ -21,5 +29,6 @@ body {
     width: 100%;
     height: 60px;
     line-height: 60px;
-    background-color: rgb(52, 58, 64)
+    background-color: rgb(52, 58, 64);
+    text-align: center;
 }
