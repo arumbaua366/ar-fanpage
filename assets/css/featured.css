@@ -5,6 +5,7 @@ html {
 
 body {
     margin-bottom: 60px;
+    background-color: lightgray;
 }
 
 .featured-title {
@@ -21,6 +22,11 @@ body {
 
 .red {
     color: red;
+}
+
+.page-link {
+    color: white;
+    background-color: #212529;
 }
 
 .footer {
