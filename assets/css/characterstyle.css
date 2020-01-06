@@ -5,6 +5,12 @@ html {
 
 body {
     margin-bottom: 60px;
+    background-color: lightgray;
+}
+
+.card-link {
+    color: black;
+    border: rgb(52, 58, 64);
 }
 
 .footer {
